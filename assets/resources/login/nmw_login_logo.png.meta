@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "477ef572-b16e-433c-8098-d2eccfd738af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "nmw_login_logo": {
+      "ver": "1.0.3",
+      "uuid": "842e53a5-783e-4ee0-ac48-7950940c4da0",
+      "rawTextureUuid": "477ef572-b16e-433c-8098-d2eccfd738af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3,
+      "trimX": 0,
+      "trimY": 6,
+      "width": 633,
+      "height": 295,
+      "rawWidth": 633,
+      "rawHeight": 301,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

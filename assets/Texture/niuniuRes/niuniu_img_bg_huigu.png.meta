@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "49ed9413-6917-493f-adc3-52425015e4ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "niuniu_img_bg_huigu": {
+      "ver": "1.0.3",
+      "uuid": "402f8ead-916e-4217-ab47-4584d588b464",
+      "rawTextureUuid": "49ed9413-6917-493f-adc3-52425015e4ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 451,
+      "height": 714,
+      "rawWidth": 451,
+      "rawHeight": 714,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

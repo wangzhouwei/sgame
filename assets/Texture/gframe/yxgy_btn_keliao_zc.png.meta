@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0c6ec60c-157d-4240-8bf8-94440f402209",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "yxgy_btn_keliao_zc": {
+      "ver": "1.0.3",
+      "uuid": "c38cfb8a-b477-4c4d-b4a0-38536db41db4",
+      "rawTextureUuid": "0c6ec60c-157d-4240-8bf8-94440f402209",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 3,
+      "trimY": 6,
+      "width": 211,
+      "height": 73,
+      "rawWidth": 219,
+      "rawHeight": 87,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "407648cb-3dc7-4609-bcad-95140bbb4596",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "niuniu_tuoguanImg": {
+      "ver": "1.0.3",
+      "uuid": "cfe9a1ac-23d1-4981-88bc-ed3a0ea52c27",
+      "rawTextureUuid": "407648cb-3dc7-4609-bcad-95140bbb4596",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 50,
+      "rawWidth": 89,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
