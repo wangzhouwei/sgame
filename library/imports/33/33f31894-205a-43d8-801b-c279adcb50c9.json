@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anquanjiance",
+    "texture": "11879201-61ed-48d8-825d-9c5df3265e99",
+    "atlas": "",
+    "rect": [
+      5,
+      3,
+      306,
+      65
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      318,
+      70
+    ]
+  }
+}

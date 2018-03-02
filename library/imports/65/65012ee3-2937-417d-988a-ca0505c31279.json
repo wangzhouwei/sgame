@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_kanpaiz",
+    "texture": "7f7dac05-9cd8-4270-9e89-fe1662742c8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      241,
+      65
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      242,
+      65
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dt_guanggao_zc",
+    "texture": "eda08736-c324-4d8d-8158-c769486727b0",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      93,
+      67
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      95,
+      68
+    ]
+  }
+}

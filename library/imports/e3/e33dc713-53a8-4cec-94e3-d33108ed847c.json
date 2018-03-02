@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dt_guanggao_dj",
+    "texture": "50895e0d-5e79-41a6-ada9-0d33bb022b56",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      93,
+      67
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      95,
+      68
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_btn_fanpai",
+    "texture": "5b8dfa54-a6d1-4be4-b04f-e86d5f5d8ab4",
+    "atlas": "",
+    "rect": [
+      0,
+      5,
+      155,
+      74
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      155,
+      80
+    ]
+  }
+}

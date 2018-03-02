@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_dis_huluniu",
+    "texture": "d04fb09d-8746-4de5-8d3a-783ebc18bc18",
+    "atlas": "",
+    "rect": [
+      4,
+      14,
+      223,
+      82
+    ],
+    "offset": [
+      -0.5,
+      -5
+    ],
+    "originalSize": [
+      232,
+      100
+    ]
+  }
+}

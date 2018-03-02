@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_js_zik",
+    "texture": "53bc1592-2b6d-4a77-9ebd-f7d3f3a0f5ca",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      468,
+      155
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      470,
+      161
+    ]
+  }
+}

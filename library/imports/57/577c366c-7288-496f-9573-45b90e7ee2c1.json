@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_dt_guangzhu_jiantou",
+    "texture": "151bc570-ac63-454c-be23-7370c95322fc",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      61,
+      70
+    ],
+    "offset": [
+      -3.5,
+      1.5
+    ],
+    "originalSize": [
+      74,
+      73
+    ]
+  }
+}

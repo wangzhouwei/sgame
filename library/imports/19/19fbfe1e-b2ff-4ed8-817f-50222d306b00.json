@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_js_ks_dj",
+    "texture": "bd5e91fd-8b03-4ecf-ae4d-5b5e9b668549",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      207,
+      80
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      211,
+      83
+    ]
+  }
+}

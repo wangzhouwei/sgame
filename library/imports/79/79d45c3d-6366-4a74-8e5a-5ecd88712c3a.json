@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_dis_shunziniu",
+    "texture": "79163e6e-2985-4107-9e3e-12bd6b8f8ae9",
+    "atlas": "",
+    "rect": [
+      4,
+      16,
+      223,
+      80
+    ],
+    "offset": [
+      -0.5,
+      -6
+    ],
+    "originalSize": [
+      232,
+      100
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_qx_keliao",
+    "texture": "c2f802c8-7576-4ff0-9eaf-98d756a102bb",
+    "atlas": "",
+    "rect": [
+      8,
+      6,
+      99,
+      114
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      115,
+      123
+    ]
+  }
+}

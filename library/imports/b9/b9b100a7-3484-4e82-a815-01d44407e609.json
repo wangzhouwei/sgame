@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_dis_tonghuaniu",
+    "texture": "0a3d6495-d79f-4fb9-a7ec-791e77ed8928",
+    "atlas": "",
+    "rect": [
+      4,
+      15,
+      223,
+      81
+    ],
+    "offset": [
+      -0.5,
+      -5.5
+    ],
+    "originalSize": [
+      232,
+      100
+    ]
+  }
+}

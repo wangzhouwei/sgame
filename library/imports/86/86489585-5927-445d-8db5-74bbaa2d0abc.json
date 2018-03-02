@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gy_matchtip_yy",
+    "texture": "f84c01df-e394-4d22-a9dc-d4cd1708c1a4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      53
+    ]
+  }
+}

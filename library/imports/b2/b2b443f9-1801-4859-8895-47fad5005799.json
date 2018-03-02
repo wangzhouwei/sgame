@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_fz_kuang",
+    "texture": "4560f090-a506-4894-bfad-2c265afa51e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      25
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_btn_kongbai",
+    "texture": "c476a2a6-eb5e-4d76-b85a-85b48fabee56",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      155,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      80
+    ]
+  }
+}

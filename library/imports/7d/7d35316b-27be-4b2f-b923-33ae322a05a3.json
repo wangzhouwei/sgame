@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxxd_cjfj_flag_1",
+    "texture": "e5990753-36fe-4e71-b942-639d46360072",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      282,
+      223
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      223
+    ]
+  }
+}

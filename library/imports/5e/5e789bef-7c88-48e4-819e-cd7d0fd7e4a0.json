@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_grabed",
+    "texture": "651ffca7-bd90-4259-8900-2fcaf3248ee1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      29
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_num_bei2",
+    "texture": "051178ab-bf61-46fb-a3e1-1f474b87526c",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      451,
+      49
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      460,
+      49
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nmw_login_logo",
+    "texture": "477ef572-b16e-433c-8098-d2eccfd738af",
+    "atlas": "",
+    "rect": [
+      0,
+      6,
+      633,
+      295
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      633,
+      301
+    ]
+  }
+}

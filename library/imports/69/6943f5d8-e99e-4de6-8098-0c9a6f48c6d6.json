@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_operate_zhong",
+    "texture": "71e8aef0-d241-4eb7-9f73-1e112b3dd6d5",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      28,
+      28
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      30,
+      30
+    ]
+  }
+}

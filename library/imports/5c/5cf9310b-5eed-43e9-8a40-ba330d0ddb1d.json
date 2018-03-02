@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_sz_guan",
+    "texture": "4b64718e-8b89-4d12-a8c3-0b43752729c8",
+    "atlas": "",
+    "rect": [
+      5,
+      1,
+      28,
+      28
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      36,
+      31
+    ]
+  }
+}

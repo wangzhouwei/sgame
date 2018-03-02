@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huatong_ht",
+    "texture": "9850ef1d-9537-42b5-be2d-50fc74eeeb62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      350,
+      273
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      350,
+      273
+    ]
+  }
+}

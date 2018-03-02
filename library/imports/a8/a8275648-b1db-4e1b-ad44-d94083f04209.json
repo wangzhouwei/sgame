@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_dis_moji",
+    "texture": "ae649a4c-c34c-4fba-9788-3e59af6b4da4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      239,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      239,
+      45
+    ]
+  }
+}

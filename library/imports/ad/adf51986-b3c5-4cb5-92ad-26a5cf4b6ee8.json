@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yxgy_btn_keliao_dj",
+    "texture": "d74e8a5a-4a69-4aa3-a029-c9c6b489c7c7",
+    "atlas": "",
+    "rect": [
+      3,
+      6,
+      211,
+      73
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      219,
+      87
+    ]
+  }
+}

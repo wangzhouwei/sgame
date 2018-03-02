@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bydt_dk_line",
+    "texture": "59dfde0e-5770-4f28-99c2-d9fc432e9c27",
+    "atlas": "",
+    "rect": [
+      0,
+      52,
+      469,
+      4
+    ],
+    "offset": [
+      0,
+      -26
+    ],
+    "originalSize": [
+      469,
+      56
+    ]
+  }
+}

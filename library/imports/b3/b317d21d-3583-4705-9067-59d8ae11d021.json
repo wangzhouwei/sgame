@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_grxxk_sm",
+    "texture": "a3dbaa7d-6b97-4750-8438-d8826ed857e0",
+    "atlas": "",
+    "rect": [
+      6,
+      3,
+      390,
+      185
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      403,
+      192
+    ]
+  }
+}

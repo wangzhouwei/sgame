@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxpt_tip_puke_2",
+    "texture": "cfa5579f-bca4-4795-a97f-4cc05030e8ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      29,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      29,
+      42
+    ]
+  }
+}

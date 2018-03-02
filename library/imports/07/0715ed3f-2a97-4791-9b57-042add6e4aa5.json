@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_puke_bei_big",
+    "texture": "52fd1811-3531-4330-89bd-578d7ec53a62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      472,
+      680
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      472,
+      680
+    ]
+  }
+}

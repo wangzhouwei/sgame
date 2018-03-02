@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bydt_dk_close",
+    "texture": "b6d669dd-47b0-4b99-a6e0-ae4dd1ec3433",
+    "atlas": "",
+    "rect": [
+      14,
+      14,
+      22,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      50
+    ]
+  }
+}

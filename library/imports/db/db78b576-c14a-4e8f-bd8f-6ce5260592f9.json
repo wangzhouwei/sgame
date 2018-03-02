@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_btn_tuichu1",
+    "texture": "b7077f41-e59f-41c9-a85f-4bd0132292d6",
+    "atlas": "",
+    "rect": [
+      2,
+      6,
+      213,
+      74
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      219,
+      87
+    ]
+  }
+}

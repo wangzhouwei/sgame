@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_sz_icon",
+    "texture": "5081a6ba-d504-422d-8e1b-16338ac17799",
+    "atlas": "",
+    "rect": [
+      7,
+      5,
+      202,
+      75
+    ],
+    "offset": [
+      3.5,
+      -1
+    ],
+    "originalSize": [
+      209,
+      83
+    ]
+  }
+}

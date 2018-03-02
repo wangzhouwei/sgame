@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pt_xin_cn_dt_btnbsj_zc",
+    "texture": "34a827d0-5327-4f5a-9c72-8b18a322328a",
+    "atlas": "",
+    "rect": [
+      3,
+      64,
+      68,
+      39
+    ],
+    "offset": [
+      -0.5,
+      -31.5
+    ],
+    "originalSize": [
+      75,
+      104
+    ]
+  }
+}

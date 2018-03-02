@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_yxjs_kl",
+    "texture": "9c97ddb5-641f-43c0-b059-4046ca5f6608",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      80,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      35
+    ]
+  }
+}

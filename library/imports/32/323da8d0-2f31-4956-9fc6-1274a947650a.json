@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_btn_buqiang",
+    "texture": "dee38d07-d3bf-4112-ab4d-208fc388c0b8",
+    "atlas": "",
+    "rect": [
+      0,
+      5,
+      155,
+      74
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      155,
+      80
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bydt_dk_bg",
+    "texture": "c82e00e8-c932-4c3c-b604-15f37828d462",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      529,
+      438
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      529,
+      440
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_btn_1bei",
+    "texture": "5ad99756-95d7-48c1-9a54-0409ecc00eca",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      155,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      155,
+      80
+    ]
+  }
+}

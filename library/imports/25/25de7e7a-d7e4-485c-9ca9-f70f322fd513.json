@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nmw_login_btn_zc",
+    "texture": "bc59637e-593b-4d90-9c97-867be7df7eff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      302,
+      102
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      302,
+      102
+    ]
+  }
+}

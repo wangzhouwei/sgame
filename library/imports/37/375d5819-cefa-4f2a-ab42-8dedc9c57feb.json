@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_dis_zhandanniu",
+    "texture": "003e8866-34eb-4233-8e35-302a83689876",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      224,
+      91
+    ],
+    "offset": [
+      -1,
+      1.5
+    ],
+    "originalSize": [
+      232,
+      100
+    ]
+  }
+}

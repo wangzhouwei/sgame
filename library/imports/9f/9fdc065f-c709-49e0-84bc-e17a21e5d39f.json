@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_font_qiang",
+    "texture": "8f00b87c-d565-4084-a7ff-066642c95095",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      22
+    ]
+  }
+}

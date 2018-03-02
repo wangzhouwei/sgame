@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_fxmb_weixin_dj",
+    "texture": "b48729f5-b77c-4d04-b4d3-50ca75a1158f",
+    "atlas": "",
+    "rect": [
+      1,
+      7,
+      76,
+      115
+    ],
+    "offset": [
+      -0.5,
+      -2.5
+    ],
+    "originalSize": [
+      79,
+      124
+    ]
+  }
+}

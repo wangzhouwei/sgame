@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_zj_zhuang",
+    "texture": "7c1be324-44cf-4340-ba97-e693b2d6894a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      51
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      46,
+      51
+    ]
+  }
+}

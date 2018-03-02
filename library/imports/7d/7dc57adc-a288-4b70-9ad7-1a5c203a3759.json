@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_operate_cuo",
+    "texture": "9f1b22e4-1f35-43ff-8a5e-10442d17fc4a",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      28,
+      29
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      30,
+      30
+    ]
+  }
+}

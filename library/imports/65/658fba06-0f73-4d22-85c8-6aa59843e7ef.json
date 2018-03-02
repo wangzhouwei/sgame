@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xx_youxian",
+    "texture": "c96e5277-0574-4744-9bfc-168a3e75de4c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      109
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      109
+    ]
+  }
+}

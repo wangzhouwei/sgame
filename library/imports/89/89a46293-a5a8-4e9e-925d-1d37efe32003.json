@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_input",
+    "texture": "5e1292da-cdb1-4a3e-bdac-da568e872ef6",
+    "atlas": "",
+    "rect": [
+      10,
+      10,
+      0,
+      0
+    ],
+    "offset": [
+      5,
+      -5
+    ],
+    "originalSize": [
+      10,
+      10
+    ]
+  }
+}

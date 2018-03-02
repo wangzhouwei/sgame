@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ggy_ltkfz",
+    "texture": "ed977819-9758-47ac-9f45-22202eccabc0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      98
+    ]
+  }
+}

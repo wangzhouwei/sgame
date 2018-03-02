@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxxd_btn_jiaruduizhan2",
+    "texture": "cd0a316d-0e88-42fd-b7f5-3d93e7b88244",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      346,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      346,
+      141
+    ]
+  }
+}

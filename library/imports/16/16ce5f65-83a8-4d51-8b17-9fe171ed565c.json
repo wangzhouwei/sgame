@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_font_tuoguanzhong2",
+    "texture": "76c8f5df-7094-4c77-8b36-658387047bba",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      277,
+      60
+    ],
+    "offset": [
+      1.5,
+      0
+    ],
+    "originalSize": [
+      280,
+      60
+    ]
+  }
+}

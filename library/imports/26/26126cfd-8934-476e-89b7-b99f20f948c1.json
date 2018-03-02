@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_img_bg_liaotianyuyin",
+    "texture": "747bf1f5-e6dd-448b-bd9b-dc78de4e63eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      284,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      284,
+      85
+    ]
+  }
+}

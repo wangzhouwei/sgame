@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yxgy_btn_jxyx_dj",
+    "texture": "ce4ad600-96f2-442a-9763-0df6e58ee415",
+    "atlas": "",
+    "rect": [
+      1,
+      4,
+      209,
+      82
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      211,
+      87
+    ]
+  }
+}

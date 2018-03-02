@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxxd_btn_fenxiang2",
+    "texture": "cc59adef-8b28-4e12-a4c0-0ed28f87adce",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      68,
+      95
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      69,
+      96
+    ]
+  }
+}

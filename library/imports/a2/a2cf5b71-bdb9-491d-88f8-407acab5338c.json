@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_huangguan",
+    "texture": "dfebbfc0-20cc-450e-8393-6489e92f6d6a",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      98,
+      81
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      105,
+      87
+    ]
+  }
+}

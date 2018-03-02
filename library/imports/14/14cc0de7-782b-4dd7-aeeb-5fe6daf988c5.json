@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_ico_x",
+    "texture": "3f4a4f82-6422-4ebe-b6b2-7acf3205a747",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      39,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      34
+    ]
+  }
+}

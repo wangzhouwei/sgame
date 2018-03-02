@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_dt_fkicon",
+    "texture": "4a942255-c710-4555-b9ff-e4fcdb8cd805",
+    "atlas": "",
+    "rect": [
+      11,
+      3,
+      90,
+      90
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      112,
+      101
+    ]
+  }
+}

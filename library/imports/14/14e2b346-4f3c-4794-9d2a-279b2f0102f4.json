@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "da_ggt",
+    "texture": "13374fce-1af0-4b7b-b137-8d53cfe6e378",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      225
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      225
+    ]
+  }
+}

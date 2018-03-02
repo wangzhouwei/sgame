@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eqs_naozhong",
+    "texture": "7d56d2fd-a4a1-4b8a-b8c5-1f62e6ba8022",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      70,
+      88
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      73,
+      90
+    ]
+  }
+}

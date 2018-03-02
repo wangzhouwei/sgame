@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_jinbishu_aia",
+    "texture": "99917111-cc59-46aa-ba67-50bcb7d514af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      41
+    ]
+  }
+}

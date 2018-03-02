@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect_zj_circle_senior_02",
+    "texture": "5dbf5136-a32e-43ac-9ad8-8f86554f3c7f",
+    "atlas": "",
+    "rect": [
+      15,
+      16,
+      100,
+      100
+    ],
+    "offset": [
+      1,
+      -2
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

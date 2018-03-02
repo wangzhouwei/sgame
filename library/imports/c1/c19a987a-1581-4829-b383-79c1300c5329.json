@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxxd_btn_chuangjianfangjian2",
+    "texture": "6cbae71f-c25c-473c-9712-4355f76ac036",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      250,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      87
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxxd_btn_paihangbang1",
+    "texture": "bbbfaf3a-aedb-4a21-8180-603ce81345f2",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      99,
+      99
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      101,
+      100
+    ]
+  }
+}

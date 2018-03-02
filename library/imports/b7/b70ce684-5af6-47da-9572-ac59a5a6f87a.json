@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_jiebang_small_dj",
+    "texture": "17398fab-f338-4681-972e-80ef8b0be552",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      209,
+      82
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      210,
+      85
+    ]
+  }
+}

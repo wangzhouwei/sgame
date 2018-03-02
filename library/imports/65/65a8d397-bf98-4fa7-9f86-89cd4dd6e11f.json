@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huatong_yinliang_3",
+    "texture": "87e68d22-6324-4789-86fd-9c78b485b281",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      18
+    ]
+  }
+}

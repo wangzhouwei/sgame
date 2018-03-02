@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_yxjs_db",
+    "texture": "388c3920-40e2-4632-8f2e-4541646cb5a0",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      234,
+      48
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      235,
+      49
+    ]
+  }
+}

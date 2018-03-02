@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_dt_fenxiangyouli_zc",
+    "texture": "1fa4a264-7141-4aeb-9e10-ff13719a0265",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      259,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      259,
+      85
+    ]
+  }
+}

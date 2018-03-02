@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pt_xin_dt_bottom",
+    "texture": "5b36abf5-ce14-48f8-86c2-ea315bf72f19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      685,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      685,
+      51
+    ]
+  }
+}

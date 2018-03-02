@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dlpt_gy_tst",
+    "texture": "94337cc9-564d-4064-8bd6-d355f33cd963",
+    "atlas": "",
+    "rect": [
+      9,
+      1,
+      941,
+      211
+    ],
+    "offset": [
+      3,
+      -0.5
+    ],
+    "originalSize": [
+      953,
+      212
+    ]
+  }
+}

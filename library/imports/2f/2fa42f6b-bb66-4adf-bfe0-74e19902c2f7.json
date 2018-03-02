@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_sz_kai",
+    "texture": "140e57af-7666-4fbb-b999-c1a6aafebccc",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      29,
+      27
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      36,
+      31
+    ]
+  }
+}

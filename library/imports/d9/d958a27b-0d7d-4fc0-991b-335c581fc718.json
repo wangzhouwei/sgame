@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_dt_guangzhu_dian",
+    "texture": "495482cd-9062-4c3e-9f17-397d2938d459",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      101
+    ]
+  }
+}

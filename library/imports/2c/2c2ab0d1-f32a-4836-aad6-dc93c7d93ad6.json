@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_pizi",
+    "texture": "e776d6c7-61b4-4dc5-b0c9-e1cae4b93459",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      139,
+      198
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      140,
+      199
+    ]
+  }
+}

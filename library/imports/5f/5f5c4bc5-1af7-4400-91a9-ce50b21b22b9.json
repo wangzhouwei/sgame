@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_qiangx6",
+    "texture": "2875464e-ff89-44c3-a069-23e25ef15f2c",
+    "atlas": "",
+    "rect": [
+      7,
+      3,
+      103,
+      40
+    ],
+    "offset": [
+      3.5,
+      0
+    ],
+    "originalSize": [
+      110,
+      46
+    ]
+  }
+}

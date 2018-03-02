@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_dis_wuhuaniu",
+    "texture": "c55d6e75-e256-4651-886f-2d96881841a5",
+    "atlas": "",
+    "rect": [
+      4,
+      15,
+      223,
+      81
+    ],
+    "offset": [
+      -0.5,
+      -5.5
+    ],
+    "originalSize": [
+      232,
+      100
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_dt_chongzhi_zc",
+    "texture": "e7af6305-084e-4271-bdfa-76aaf2928233",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      63,
+      63
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      71,
+      71
+    ]
+  }
+}

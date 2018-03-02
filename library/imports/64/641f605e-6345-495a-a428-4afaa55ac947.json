@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_operate_pai",
+    "texture": "5482f601-e74b-4f2b-8e8f-12a3194f1648",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      28,
+      29
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      30,
+      30
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_btn_zuoxia",
+    "texture": "d1f07973-54f4-4590-8b37-08e46c92f936",
+    "atlas": "",
+    "rect": [
+      2,
+      6,
+      213,
+      74
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      219,
+      87
+    ]
+  }
+}

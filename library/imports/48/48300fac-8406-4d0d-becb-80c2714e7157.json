@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_qx_bangding_zc",
+    "texture": "76093922-bcef-4dfe-85d7-7e987df35255",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      210,
+      83
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      212,
+      84
+    ]
+  }
+}

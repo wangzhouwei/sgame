@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_qx_pengyouquan",
+    "texture": "e036fc0b-4526-49c4-936a-22896698d61c",
+    "atlas": "",
+    "rect": [
+      9,
+      5,
+      96,
+      95
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      115,
+      105
+    ]
+  }
+}

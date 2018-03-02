@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_btn_chakanzhanji",
+    "texture": "cad1f785-097c-4842-91fb-c0e9f666c72d",
+    "atlas": "",
+    "rect": [
+      2,
+      6,
+      214,
+      74
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      219,
+      87
+    ]
+  }
+}

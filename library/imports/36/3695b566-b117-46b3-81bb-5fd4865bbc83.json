@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nn_xshdcp",
+    "texture": "ec03f88a-df06-4456-a2e2-6bf801712c25",
+    "atlas": "",
+    "rect": [
+      14,
+      8,
+      233,
+      137
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      261,
+      148
+    ]
+  }
+}

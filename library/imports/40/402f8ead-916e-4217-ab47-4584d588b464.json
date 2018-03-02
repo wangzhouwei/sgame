@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_img_bg_huigu",
+    "texture": "49ed9413-6917-493f-adc3-52425015e4ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      451,
+      714
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      451,
+      714
+    ]
+  }
+}

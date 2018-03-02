@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "niuniu_puke_bei",
+    "texture": "43814fc3-2fe6-47bb-bdb1-251216838dc9",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      137,
+      198
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      140,
+      199
+    ]
+  }
+}

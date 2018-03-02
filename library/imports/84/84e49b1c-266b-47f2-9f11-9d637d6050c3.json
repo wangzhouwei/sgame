@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ggy_ltk",
+    "texture": "70317a4a-ed8c-4f0d-a2ee-a48329b0f7ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      98
+    ]
+  }
+}

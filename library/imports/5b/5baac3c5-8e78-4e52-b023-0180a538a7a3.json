@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xxqp_btn_julebu",
+    "texture": "83323d6a-7bfb-4acd-be75-c21db91d321e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      98,
+      102
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      99,
+      102
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pt_gy_3g",
+    "texture": "8f7fed9d-e34e-447b-a920-e1f931511ea5",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      38,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      24
+    ]
+  }
+}
