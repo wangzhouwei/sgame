@@ -1,0 +1,113 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 262,
+      "y": 426,
+      "width": 1280,
+      "height": 688,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 231,
+                "type": "panel",
+                "width": 374
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 363,
+                "type": "panel",
+                "width": 374
+              }
+            ],
+            "height": 597,
+            "type": "dock-v",
+            "width": 374
+          },
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "scene"
+                ],
+                "height": 367.984375,
+                "type": "panel",
+                "width": 590
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 226,
+                "type": "panel",
+                "width": 590
+              }
+            ],
+            "height": 597,
+            "type": "dock-v",
+            "width": 590
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 597,
+            "type": "panel",
+            "width": 304
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "console",
+        "inspector",
+        "hierarchy",
+        "assets",
+        "scene",
+        "timeline"
+      ]
+    }
+  },
+  "panels": {
+    "builder": {
+      "x": 1002,
+      "y": 23,
+      "width": 500,
+      "height": 722
+    },
+    "sprite-editor": {
+      "x": 0,
+      "y": 23,
+      "width": 1920,
+      "height": 1101
+    },
+    "project-settings": {
+      "x": 680,
+      "y": 290,
+      "width": 584,
+      "height": 548
+    },
+    "preferences": {
+      "x": 680,
+      "y": 287,
+      "width": 564,
+      "height": 548
+    }
+  }
+}
