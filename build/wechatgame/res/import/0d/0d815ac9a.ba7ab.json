@@ -1,0 +1,639 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "gy_bg",
+      "texture": "74istcO6tEsb+BMbiT2NGj",
+      "rect": [
+        0,
+        0,
+        1334,
+        1024
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1334,
+        1024
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "nmw_login_btn_zc",
+      "texture": "bcWWN+WTtNkJyXhnvn337/",
+      "rect": [
+        0,
+        0,
+        302,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        302,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "default_btn_disabled",
+      "texture": "71VhFCTINJM6/Ky3oX9nBT",
+      "rect": [
+        0,
+        0,
+        40,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        40
+      ],
+      "capInsets": [
+        15,
+        7,
+        15,
+        9
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.SceneAsset",
+      "_name": "login_scene",
+      "scene": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Scene",
+      "_name": "New Node",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        }
+      ],
+      "_anchorPoint": {
+        "__type__": "cc.Vec2"
+      },
+      "autoReleaseAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "loginBg",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "1c9QomRi1M4bGeGjCo8EKL"
+          }
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 2
+          },
+          "_alignFlags": 18,
+          "_verticalCenter": -2.842170943040401e-14
+        }
+      ],
+      "_id": "cb7oC25z9C6pUG7xCmnygO",
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1334,
+        "height": 1024
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 667,
+        "y": 375
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Canvas",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 15
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Canvas",
+          "node": {
+            "__id__": 3
+          },
+          "_designResolution": {
+            "__type__": "cc.Size",
+            "width": 1334,
+            "height": 750
+          }
+        },
+        {
+          "__type__": "280c3rsZJJKnZ9RqbALVwtK",
+          "node": {
+            "__id__": 3
+          },
+          "loginBtn": {
+            "__id__": 6
+          },
+          "txtBtn": {
+            "__id__": 14
+          },
+          "clickBtn": {
+            "__id__": 12
+          },
+          "hallmusic": {
+            "__uuid__": "9fIUJVT6xGZI3XHCADGB4M"
+          }
+        }
+      ],
+      "_id": "a286bbGknJLZpRpxROV6M94",
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 252,
+        "g": 252,
+        "b": 252
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1334,
+        "height": 750
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 667,
+        "y": 375
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "logo",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "84LlOleD5O4KxIeVCUDE2g"
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 633,
+        "height": 295
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 13,
+        "y": 141
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "loginBtn",
+      "_parent": {
+        "__id__": 3
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "253n561+RIXJyp9w8yL9UT"
+          },
+          "_type": 1,
+          "_sizeMode": 2,
+          "_isTrimmedMode": false
+        },
+        {
+          "__id__": 6
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 302,
+        "height": 102
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 1,
+        "y": -110
+      }
+    },
+    {
+      "__type__": "cc.Button",
+      "node": {
+        "__id__": 5
+      },
+      "transition": 3,
+      "pressedColor": {
+        "__type__": "cc.Color",
+        "r": 97,
+        "g": 89,
+        "b": 89,
+        "a": 159
+      },
+      "hoverColor": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 10
+      },
+      "zoomScale": 0.9,
+      "pressedSprite": {
+        "__uuid__": "e97GVMl6JHh5Ml5qEDdSGa"
+      },
+      "hoverSprite": {
+        "__uuid__": "e97GVMl6JHh5Ml5qEDdSGa"
+      },
+      "clickEvents": [
+        {
+          "__type__": "cc.ClickEvent",
+          "target": {
+            "__id__": 3
+          },
+          "component": "Login",
+          "handler": "touckLogin",
+          "customEventData": "123"
+        }
+      ],
+      "_N$normalColor": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "_N$disabledColor": {
+        "__type__": "cc.Color",
+        "r": 78,
+        "g": 71,
+        "b": 71,
+        "a": 129
+      },
+      "_N$normalSprite": {
+        "__uuid__": "253n561+RIXJyp9w8yL9UT"
+      },
+      "_N$disabledSprite": {
+        "__uuid__": "29FYIk+N1GYaeWH/q1NxQO"
+      },
+      "_N$target": {
+        "__id__": 5
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Protocol",
+      "_parent": {
+        "__id__": 3
+      },
+      "_children": [
+        {
+          "__id__": 8
+        },
+        {
+          "__id__": 13
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Layout",
+          "node": {
+            "__id__": 7
+          },
+          "_layoutSize": {
+            "__type__": "cc.Size",
+            "width": 408,
+            "height": 150
+          },
+          "_resize": 1,
+          "_N$layoutType": 1,
+          "_N$paddingLeft": 10,
+          "_N$spacingX": 10
+        }
+      ],
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 167,
+        "g": 167,
+        "b": 167
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 408,
+        "height": 150
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -13,
+        "y": -250
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "box",
+      "_parent": {
+        "__id__": 7
+      },
+      "_children": [
+        {
+          "__id__": 9
+        },
+        {
+          "__id__": 10
+        }
+      ],
+      "_components": [
+        {
+          "__id__": 12
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 28,
+        "height": 28
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -180
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Background",
+      "_parent": {
+        "__id__": 8
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 9
+          },
+          "_spriteFrame": {
+            "__uuid__": "68J8oyAQdFUrqy37MXmbtE"
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 28,
+        "height": 28
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "checkmark",
+      "_parent": {
+        "__id__": 8
+      },
+      "_components": [
+        {
+          "__id__": 11
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 28,
+        "height": 28
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 10
+      },
+      "_spriteFrame": {
+        "__uuid__": "90AErWL21A4ZPvtxQ3XG8G"
+      },
+      "_sizeMode": 2,
+      "_isTrimmedMode": false
+    },
+    {
+      "__type__": "cc.Toggle",
+      "node": {
+        "__id__": 8
+      },
+      "transition": 3,
+      "_N$target": {
+        "__id__": 9
+      },
+      "checkMark": {
+        "__id__": 11
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "txt",
+      "_parent": {
+        "__id__": 7
+      },
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 13
+          },
+          "_useOriginalSize": false,
+          "_N$string": "小闲牛魔王用户协议",
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        },
+        {
+          "__id__": 14
+        }
+      ],
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 8,
+        "g": 8,
+        "b": 8
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 360,
+        "height": 40
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 24
+      }
+    },
+    {
+      "__type__": "cc.Button",
+      "node": {
+        "__id__": 13
+      },
+      "transition": 3,
+      "zoomScale": 0.9,
+      "_N$target": {
+        "__id__": 13
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "isconnected",
+      "_parent": {
+        "__id__": 3
+      },
+      "_active": false,
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 15
+          },
+          "_useOriginalSize": false,
+          "_N$string": "正在链接游戏服务器...",
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "y": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 393.34,
+        "height": 40
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -645,
+        "y": -290
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "default_toggle_normal",
+      "texture": "d2kHe6FidKcpV5e1aiNTQM",
+      "rect": [
+        0,
+        0,
+        28,
+        28
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        28
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "nmw_login_logo",
+      "texture": "47fvVysW5DPICY0uzP1ziv",
+      "rect": [
+        0,
+        6,
+        633,
+        295
+      ],
+      "offset": [
+        0,
+        -3
+      ],
+      "originalSize": [
+        633,
+        301
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "default_toggle_checkmark",
+      "texture": "73oJA92A5OPKpn+ZlUPAj1",
+      "rect": [
+        5,
+        3,
+        20,
+        19
+      ],
+      "offset": [
+        1,
+        1.5
+      ],
+      "originalSize": [
+        28,
+        28
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "default_btn_pressed",
+      "texture": "b4P/PCArtIdIH38t6mlw8Y",
+      "rect": [
+        0,
+        0,
+        40,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        40
+      ],
+      "capInsets": [
+        11,
+        11,
+        11,
+        7
+      ]
+    }
+  }
+]

@@ -1,0 +1,511 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "xxqp_zj_fh_bjb",
+      "texture": "31dqP6DWJGjowuSkAIrdOk",
+      "rect": [
+        0,
+        0,
+        140,
+        140
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        140,
+        140
+      ],
+      "capInsets": [
+        21,
+        0,
+        20,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "lunzhanjiList",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "lunzhanjiList",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 11
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "652ee/cfKhJS7QRSR/jZmi0",
+          "node": {
+            "__id__": 1
+          },
+          "gameName": {
+            "__id__": 4
+          },
+          "roomCode": {
+            "__id__": 6
+          },
+          "isClub": {
+            "__id__": 8
+          },
+          "gameTime": {
+            "__id__": 13
+          },
+          "playerLayout": {
+            "__id__": 10
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "887F6k3TFMFb4RPS+dAtg4"
+        },
+        "fileId": "deCkQrb4hPUYpxuZOtVwji"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1258,
+        "height": 224
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": -112
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "lzjbg",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 7
+        },
+        {
+          "__id__": 9
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "0fC4EWJ2ZLS6qbMRf0aIaR"
+          },
+          "_type": 1,
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 2
+          },
+          "_alignFlags": 4
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 2
+          },
+          "clickEvents": [
+            {
+              "__type__": "cc.ClickEvent",
+              "target": {
+                "__id__": 1
+              },
+              "component": "lunzhanjiList",
+              "handler": "onClick"
+            }
+          ],
+          "_N$target": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "887F6k3TFMFb4RPS+dAtg4"
+        },
+        "fileId": "96/qM3HrNCBY8yv5dKZmBZ"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1258,
+        "height": 160
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": -32
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gameName",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__id__": 4
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "887F6k3TFMFb4RPS+dAtg4"
+        },
+        "fileId": "46ncQgO9hMSJBNXQmcSfSt"
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "y": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 130,
+        "height": 50
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -604,
+        "y": 45
+      }
+    },
+    {
+      "__type__": "cc.RichText",
+      "node": {
+        "__id__": 3
+      },
+      "_N$string": "<color=#ff9c00>游戏</c><color=#ffffff>斗地主</color>",
+      "_N$fontSize": 26,
+      "_N$lineHeight": 50
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gameCode",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__id__": 6
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "887F6k3TFMFb4RPS+dAtg4"
+        },
+        "fileId": "4e2zbiM9xNx5kvcqBBUFSq"
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "y": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 99.69,
+        "height": 50
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -363,
+        "y": 45
+      }
+    },
+    {
+      "__type__": "cc.RichText",
+      "node": {
+        "__id__": 5
+      },
+      "_N$string": "<color=#ff9c00>Rich</c><color=#ffffff>Text</color>",
+      "_N$fontSize": 26,
+      "_N$lineHeight": 50
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "clubicon",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__id__": 8
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "887F6k3TFMFb4RPS+dAtg4"
+        },
+        "fileId": "a1KcDW1zBN75Al87SulE02"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 107,
+        "height": 48
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -131,
+        "y": 45
+      }
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 7
+      },
+      "_spriteFrame": {
+        "__uuid__": "fc+lxTJAVAl47Rs4gkyu5G"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "playersLay",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__id__": 10
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "887F6k3TFMFb4RPS+dAtg4"
+        },
+        "fileId": "49eCVfE3RHYJRt9dy+4uEF"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 167,
+        "g": 167,
+        "b": 167
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "y": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1200,
+        "height": 50
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -615,
+        "y": -20
+      }
+    },
+    {
+      "__type__": "cc.Layout",
+      "node": {
+        "__id__": 9
+      },
+      "_layoutSize": {
+        "__type__": "cc.Size",
+        "width": 1200,
+        "height": 50
+      },
+      "_resize": 1,
+      "_N$layoutType": 3,
+      "_N$paddingLeft": 40,
+      "_N$paddingRight": 40,
+      "_N$spacingX": 40
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "lzjtime",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 12
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 11
+          },
+          "_alignFlags": 9,
+          "_left": 10,
+          "_top": 10
+        },
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 11
+          },
+          "_spriteFrame": {
+            "__uuid__": "f8Qtw33mRDWolA+bzTGIU5"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "887F6k3TFMFb4RPS+dAtg4"
+        },
+        "fileId": "a84/2kDx9GZ65rXh4HGm/m"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 37,
+        "height": 37
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -600.5,
+        "y": 83.5
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "timestr",
+      "_parent": {
+        "__id__": 11
+      },
+      "_components": [
+        {
+          "__id__": 13
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 12
+          },
+          "_alignFlags": 8,
+          "_left": 60
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "887F6k3TFMFb4RPS+dAtg4"
+        },
+        "fileId": "62KF9U02dGKqX4v8N/g/wG"
+      },
+      "_anchorPoint": {
+        "__type__": "cc.Vec2",
+        "y": 0.5
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 241.43,
+        "height": 26
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 41.5
+      }
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 12
+      },
+      "_useOriginalSize": false,
+      "_actualFontSize": 26,
+      "_fontSize": 26,
+      "_lineHeight": 26,
+      "_N$string": "2018-01-18 14:14:14",
+      "_N$horizontalAlign": 1,
+      "_N$verticalAlign": 1
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "xxqp_zj_shijianbg",
+      "texture": "17qCZG2+dHT5hfljxR/EGS",
+      "rect": [
+        0,
+        0,
+        37,
+        37
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        37,
+        37
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "xxqp_zj_jlb",
+      "texture": "f4I4qbeD5DUJS0OVM/3LB+",
+      "rect": [
+        0,
+        0,
+        107,
+        48
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        107,
+        48
+      ]
+    }
+  }
+]

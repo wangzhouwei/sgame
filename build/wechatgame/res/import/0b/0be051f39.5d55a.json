@@ -1,0 +1,106 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "xxpt_xd_bg",
+      "texture": "3cP0SZq/5EoJDH6Xs89sSZ",
+      "rect": [
+        0,
+        0,
+        1334,
+        1024
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1334,
+        1024
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.SceneAsset",
+      "_name": "start_scene",
+      "scene": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Scene",
+      "_name": "New Node",
+      "_children": [
+        {
+          "__id__": 2
+        }
+      ],
+      "_anchorPoint": {
+        "__type__": "cc.Vec2"
+      },
+      "autoReleaseAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Canvas",
+      "_parent": {
+        "__id__": 1
+      },
+      "_children": [
+        {
+          "__id__": 3
+        }
+      ],
+      "_components": [
+        {
+          "__type__": "cc.Canvas",
+          "node": {
+            "__id__": 2
+          }
+        },
+        {
+          "__type__": "e57040Yi4hGzrCiok9LpeTk",
+          "node": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_id": "6dF7iMM9tDM4alGNaOLX7n",
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 960,
+        "height": 640
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 480,
+        "y": 320
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "xxpt_xd_bg",
+      "_parent": {
+        "__id__": 2
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "b7wZtguZxGw4FNnwuBZuUE"
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1334,
+        "height": 1024
+      }
+    }
+  ]
+]

@@ -1,0 +1,1 @@
+var sharedAudioEngine=cc.audioEngine,sys={};sys.setMusicVolume=function(s){console.log("设置音乐音量",s),sharedAudioEngine.setMusicVolume(s)},sys.getMusicVolume=function(){return sharedAudioEngine.getMusicVolume()},sys.muteAudio=function(){sys.setMusicVolume(0),sys.setSoundVolume(0)},sys.muteSound=function(){sys.setSoundVolume(0)},sys.muteMusic=function(){sys.setMusicVolume(0)};
